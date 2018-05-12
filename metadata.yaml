@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25718'
     url: http://www.gutenberg.org/2009/agents/25718
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23159#Stairway-to-the-Stars
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
